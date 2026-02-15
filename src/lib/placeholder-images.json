@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-catering",
+      "description": "Elegant catering spread at a sunset event",
+      "imageUrl": "https://images.unsplash.com/photo-1751651054926-36ea440bb06c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbGVnYW50JTIwY2F0ZXJpbmd8ZW58MHx8fHwxNzcxMTc3OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elegant catering"
+    },
+    {
+      "id": "wedding-event",
+      "description": "Sophisticated wedding table setting",
+      "imageUrl": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3ZWRkaW5nJTIwY2F0ZXJpbmd8ZW58MHx8fHwxNzcxMTc3OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wedding catering"
+    },
+    {
+      "id": "corporate-lunch",
+      "description": "Professional corporate lunch buffet",
+      "imageUrl": "https://images.unsplash.com/photo-1609349002089-e3a197cd2ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBsdW5jaHxlbnwwfHx8fDE3NzExNzc5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corporate lunch"
+    },
+    {
+      "id": "gourmet-appetizer",
+      "description": "Close up of gourmet horse d'oeuvres",
+      "imageUrl": "https://images.unsplash.com/photo-1760445528912-60ff18771199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnb3VybWV0JTIwYXBwZXRpemVyfGVufDB8fHx8MTc3MTE3Nzk4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet appetizer"
+    },
+    {
+      "id": "dessert-table",
+      "description": "Luxurious dessert display",
+      "imageUrl": "https://images.unsplash.com/photo-1718354648565-651f8c6091d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkZXNzZXJ0JTIwdGFibGV8ZW58MHx8fHwxNzcxMTc3OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dessert table"
+    },
+    {
+      "id": "private-chef",
+      "description": "Chef preparing a meal in a private setting",
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcml2YXRlJTIwY2hlZnxlbnwwfHx8fDE3NzExNzc5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "private chef"
+    },
+    {
+      "id": "cocktail-party",
+      "description": "Vibrant cocktail party with appetizers",
+      "imageUrl": "https://images.unsplash.com/photo-1598994283013-482337a65d84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2NrdGFpbCUyMHBhcnR5fGVufDB8fHx8MTc3MTA5NjM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cocktail party"
+    },
+    {
+      "id": "garden-party",
+      "description": "Outdoor garden party catering setup",
+      "imageUrl": "https://images.unsplash.com/photo-1425421598808-4a22ce59cc97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBwYXJ0eXxlbnwwfHx8fDE3NzExMDA5MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garden party"
+    },
+    {
+      "id": "memorial-service",
+      "description": "Respectful memorial service catering",
+      "imageUrl": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZW1vcmlhbCUyMGNhdGVyaW5nfGVufDB8fHx8MTc3MTExMTExMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "respectful catering"
+    }
+  ]
+}
